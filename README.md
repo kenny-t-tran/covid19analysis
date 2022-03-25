@@ -1,4 +1,4 @@
-# Corona Virus (COVID-19) SQL exploration and visualzation
+# Corona Virus (COVID-19) SQL exploration and visualization
 
 I explored a COVID-19 dataset from [Our World in Data](https://ourworldindata.org/covid-deaths) using SQL and turned my queries into a Tableau dashboard.
  
